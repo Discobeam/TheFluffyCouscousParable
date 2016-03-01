@@ -151,4 +151,22 @@
 [2016.03.01-19.12.43:056][ 73]LogAIModule: Creating AISystem for world FirstPersonExampleMap
 [2016.03.01-19.12.43:056][ 73]LogPlayLevel: PIE: World Init took: (0.001954s)
 [2016.03.01-19.12.43:056][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.056814s)
-[2016.03.01-19.12
+[2016.03.01-19.12.43:103][ 73]LogInit: XAudio2 using 'Headphone (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.03.01-19.12.43:109][ 73]LogInit: FAudioDevice initialized.
+[2016.03.01-19.12.43:167][ 73]LogLinker:Warning: Asset '../../../../../../Users/Motherflippin/Documents/Unreal Projects/FluffyCouscous/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.03.01-19.12.43:203][ 73]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2016.03.01-19.12.43:210][ 73]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2016.03.01-19.12.43
+[2016.03.01-19.12.43:210][ 73]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GameSession_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.03.01-19.12.43:210][ 73]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GameNetworkManager_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2016.03.01-19.12.43:211][ 73]LogWorld: Bringing up level for play took: 0.006813
+[2016.03.01-19.12.43:213][ 73]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.046
+[2016.03.01-19.12.43:213][ 73]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.03.01-19.12.43:334][ 74]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 579/400 MB (ok in editor, bad on fixed memory platform)
+[2016.03.01-19.21.37:440][175]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.03.01-19.21.37:494][175]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.03.01-19.21.37:517][175]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000130F6769C60
+[2016.03.01-19.21.50:368][273]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 571/400 MB (ok in editor, bad on fixed memory platform)
+[2016.03.01-19.27.39:537][322]LogRenderTargetPool:Warning: r.RenderTargetPoolMin exceeded 571/400 MB (ok in editor, bad on fixed memory platform)
+[2016.03.01-19.27.42:924][441]Running C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Motherflippin/Documents/Unreal Projects/FluffyCouscous/FluffyCouscous.uproject" -game -rocket -progress -2015
+[2016.03.01-19.27.43:329][441]Discovering modules, targets and source code for game...
+[2016.03.01-19.27.43:329
