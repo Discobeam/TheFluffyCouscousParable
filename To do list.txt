@@ -1,0 +1,3 @@
+1. Add crap to design Doc.
+2. Draw at layout of the map.
+3. Create list of required assets to begin modelling(or give to zain).
